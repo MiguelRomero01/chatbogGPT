@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 flask
 transformers
 torch
 googletrans
 gunicorn
+=======
+flask
+transformers
+torch
+googletrans
+>>>>>>> ae92b7a88c2a182a8e3b695885c9802f6d250ca4
